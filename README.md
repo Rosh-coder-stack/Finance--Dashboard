@@ -1,4 +1,4 @@
-# 💰 Finance Dashboard
+#  Finance Dashboard
 
 A modern, responsive financial management dashboard built with **React + Vite + Tailwind CSS**. Track income, expenses, and gain insights into your spending patterns with an intuitive interface.
 
@@ -6,7 +6,7 @@ A modern, responsive financial management dashboard built with **React + Vite + 
 
 ---
 
-## 🎯 Features
+## Features
 
 ### Dashboard Overview
 - **Summary Cards** - Quick view of Total Balance, Income, and Expenses
@@ -22,11 +22,11 @@ A modern, responsive financial management dashboard built with **React + Vite + 
 - **Beautiful Table** - Clean, modern transaction display with color-coded types
 
 ### Smart Insights
-- 📊 **Top Spending Category** - Identify your highest expense category
-- 💵 **Total & Average Expenses** - Quick spending metrics
-- 📈 **Savings Rate** - Percentage of income you're saving
-- 📅 **Highest Expense Month** - Track monthly spending patterns
-- ⚠️ **Budget Alerts** - Warnings when overspending, congratulations when saving well
+-  **Top Spending Category** - Identify your highest expense category
+-  **Total & Average Expenses** - Quick spending metrics
+-  **Savings Rate** - Percentage of income you're saving
+-  **Highest Expense Month** - Track monthly spending patterns
+-  **Budget Alerts** - Warnings when overspending, congratulations when saving well
 
 ### Role-Based UI
 - **Admin Mode** - Add/manage transactions with full access
@@ -86,7 +86,7 @@ npm run lint           # Check code quality
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 ### Adding Transactions (Admin Only)
 
@@ -120,7 +120,7 @@ npm run lint           # Check code quality
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 finance-dashboard/
@@ -148,7 +148,7 @@ finance-dashboard/
 
 ---
 
-## 💡 Key Design Decisions
+##  Key Design Decisions
 
 ### 1. **State Management**
 - Using React `useState` at Dashboard level for simplicity
@@ -178,7 +178,7 @@ finance-dashboard/
 
 ---
 
-## 🎨 Design Highlights
+##  Design Highlights
 
 ### Colors
 - **Blue** - Primary actions, Income, Charts
@@ -199,7 +199,7 @@ finance-dashboard/
 
 ---
 
-## 🔄 Data Flow Diagram
+##  Data Flow Diagram
 
 ```
 Dashboard (Source of Truth)
@@ -217,7 +217,7 @@ Dashboard (Source of Truth)
 
 ---
 
-## 📊 Features in Detail
+##  Features in Detail
 
 ### Charts
 
@@ -243,7 +243,7 @@ Dashboard (Source of Truth)
 
 ---
 
-## 🐛 Known Limitations
+##  Known Limitations
 
 1. **Backend** - Uses mock data only (localStorage would add persistence)
 2. **Date Range** - Assumes 2026 as year (fixable with full date format)
@@ -253,7 +253,7 @@ Dashboard (Source of Truth)
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### High Priority
 - [ ] Local storage persistence (save data on refresh)
@@ -278,9 +278,9 @@ Dashboard (Source of Truth)
 ## 📱 Responsiveness
 
 Tested and working on:
-- ✅ Desktop (1920px, 1440px, 1024px)
-- ✅ Tablet (768px, 812px)
-- ✅ Mobile (375px, 414px, 480px)
+-  Desktop (1920px, 1440px, 1024px)
+-  Tablet (768px, 812px)
+-  Mobile (375px, 414px, 480px)
 
 **Responsive Features:**
 - Single column layout on mobile
@@ -291,9 +291,9 @@ Tested and working on:
 
 ---
 
-## 🔐 Security Notes
+##  Security Notes
 
-⚠️ **Not Production Ready** - This is a demo application:
+ **Not Production Ready** - This is a demo application:
 - No authentication/authorization
 - Data stored in memory only
 - No API security
@@ -308,19 +308,19 @@ For production, add:
 
 ---
 
-## 📝 License
+##  License
 
 MIT License - Feel free to use for personal or commercial projects
 
 ---
 
-## 👤 Author
+##  Author
 
 Built as a demonstration of modern React development practices.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Suggestions welcome! Areas for improvement:
 - Performance optimization
@@ -330,7 +330,7 @@ Suggestions welcome! Areas for improvement:
 
 ---
 
-## 📞 Support
+##  Support
 
 If you encounter issues:
 
@@ -341,4 +341,4 @@ If you encounter issues:
 
 ---
 
-**Happy budgeting! 💰📈**
+**Happy budgeting!**

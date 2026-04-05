@@ -34,7 +34,7 @@ A modern, responsive financial management dashboard built with **React + Vite + 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|

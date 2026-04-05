@@ -47,7 +47,7 @@ A modern, responsive financial management dashboard built with **React + Vite + 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -256,26 +256,26 @@ Dashboard (Source of Truth)
 ##  Future Enhancements
 
 ### High Priority
-- [ ] Local storage persistence (save data on refresh)
-- [ ] Edit/Delete transaction functionality
-- [ ] Date range filters
-- [ ] Monthly comparison view
+Local storage persistence (save data on refresh)
+-  Edit/Delete transaction functionality
+-  Date range filters
+-  Monthly comparison view
 
 ### Medium Priority
-- [ ] Dark mode toggle
-- [ ] CSV/JSON export
-- [ ] Budget limit setting
-- [ ] Recurring transactions
+-  Dark mode toggle
+-  CSV/JSON export
+-  Budget limit setting
+-  Recurring transactions
 
 ### Low Priority
-- [ ] Animations & transitions
-- [ ] Multi-user support
-- [ ] Backend API integration
-- [ ] Mobile app version
+-  Animations & transitions
+-  Multi-user support
+-  Backend API integration
+-  Mobile app version
 
 ---
 
-## 📱 Responsiveness
+## Responsiveness
 
 Tested and working on:
 -  Desktop (1920px, 1440px, 1024px)

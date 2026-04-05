@@ -243,16 +243,6 @@ Dashboard (Source of Truth)
 
 ---
 
-##  Known Limitations
-
-1. **Backend** - Uses mock data only (localStorage would add persistence)
-2. **Date Range** - Assumes 2026 as year (fixable with full date format)
-3. **Categories** - Free-form text (could use predefined list)
-4. **Edit/Delete** - Cannot modify transactions after creation
-5. **Multi-year** - Cannot compare across multiple years
-
----
-
 ## Responsiveness
 
 Tested and working on:
